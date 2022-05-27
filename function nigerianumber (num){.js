@@ -4,5 +4,5 @@ function nigerianumber (num){
         return true
     }else{
         return false
-    }
+    }, "author": "victor"
 }
